@@ -7,7 +7,7 @@ public class ScoreManager {
         int num = Integer.parseInt(args[0]);
 
         //condition
-        if (num >= 0 && num < 6) {
+        if (num >= 6) {
             return "true";
         }
         return "false";
