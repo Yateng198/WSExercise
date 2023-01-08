@@ -9,5 +9,11 @@ The TestScore class is for the Junit test, we using hard code to set up a string
 In the pom file you will find the groupId and version control settings, there is also junit dependency and addClassPath plugin as well.
 </p>
 When users runing this application in command line, should following the score they want to check.<br/>
-For example:
-java -jar PassingScoreAPI-1.0-SNAPSHOT.jar 9
+For example:<br />
+java -jar PassingScoreAPI-1.0-SNAPSHOT.jar 9 <br />
+
+With this command, will run the application and returning a "False" as the result.<br />
+
+And with this line of command:<br />
+java -jar PassingScoreAPI-1.0-SNAPSHOT.jar 5 <br />
+You will get a "True" as the result.
