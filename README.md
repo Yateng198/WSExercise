@@ -16,4 +16,8 @@ With this command, will run the application and returning a "False" as the resul
 
 And with this line of command:<br />
 java -jar PassingScoreAPI-1.0-SNAPSHOT.jar 5 <br />
-You will get a "True" as the result.
+You will get a "True" as the result.<br/>
+
+
+Ps: you can find our repository on GitHub following the link below:<br/>
+https://github.com/Yateng198/WSExercise
